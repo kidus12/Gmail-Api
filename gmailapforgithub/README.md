@@ -1,10 +1,10 @@
-# Gmail Mail-Merge (Python + Gmail API) — Public-Safe Demo
+# Gmail API Email Automation(Python)
 
 A sanitized example of a Python script that sends personalized emails using the Gmail API.
 It reads recipients from a CSV and renders an email template with simple placeholders.
 
-> ⚠️ This repository is for demonstration. Do not commit real recipient data, attachments,
-> or credentials. Respect Gmail/Workspace quotas and applicable laws (e.g., CAN-SPAM).
+> This repository is for demonstration. Do not commit real recipient data, attachments,
+> or credentials.
 
 ## Features
 - Personalized emails from CSV (`name,email`)
