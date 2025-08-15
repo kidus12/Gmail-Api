@@ -1,7 +1,8 @@
 # Gmail API Email Automation(Python)
 
-A sanitized example of a Python script that sends personalized emails using the Gmail API.
-It reads recipients from a CSV and renders an email template with simple placeholders.
+This project is based on a real automation I built during my internship to send personalized outreach emails efficiently. 
+In production, it reduced manual processing time by over 60% and enabled the team to scale communication without compromising personalization. 
+This version is a public-safe demo with placeholder data.
 
 > This repository is for demonstration. Do not commit real recipient data, attachments,
 > or credentials.
